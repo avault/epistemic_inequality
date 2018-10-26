@@ -1,3 +1,5 @@
+Note to students: This is the code and data used for a published paper that connects college prestige to the ease with which ideas are transmitted. While the data is fascinating, the network nature of the data makes this dataset more challenging to analyze.
+
 # Epistemic Inequality
 
 Replication data and code for "Prestige drives epistemic inequality in the diffusion of scientific ideas"
